@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "104433561631",
+    "firebase_url": "https://legendz.firebaseio.com",
+    "project_id": "legendz",
+    "storage_bucket": "legendz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104433561631:android:95f9b819580867a6c1252a",
+        "android_client_info": {
+          "package_name": "br.com.rodso.legendz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104433561631-lo4s52nlcmnrv7ril86te2ilaiuqtkg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.rodso.legendz",
+            "certificate_hash": "b9909fcfd4154b8c597c5580d20b03e89dbf6c5f"
+          }
+        },
+        {
+          "client_id": "104433561631-c9k5vs4o9322fkpdltsv9imph7jumef3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-RCzPOE7lLFPvut4k6DUVcZ5lYJmWzm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104433561631-c9k5vs4o9322fkpdltsv9imph7jumef3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
